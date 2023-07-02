@@ -1,0 +1,5 @@
+{
+    "text_field": "[id='number']",
+    "calculate_button": "[id='getFactorial']",
+    "message_body": "[id='resultDiv']"
+}
